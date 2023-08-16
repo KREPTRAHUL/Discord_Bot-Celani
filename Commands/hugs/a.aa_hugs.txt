@@ -1,0 +1,10 @@
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/a.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/b.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/c.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/d.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/e.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/f.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/g.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/h.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/i.gif
+/storage/emulated/0/Xender/Python_programs/Celani/Commands/hugs/j.gif
